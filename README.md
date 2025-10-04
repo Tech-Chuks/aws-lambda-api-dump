@@ -1,4 +1,4 @@
-# AWS Lambda → API → S3 pipeline
+ AWS Lambda → API → S3 pipeline
 # 👋 Hi, I’m Chukwuemeka (Tech-Chuks)
 
 🎯 ** Cloud & DevOps Engineer | Graduate Student in Computer Information Systems**
