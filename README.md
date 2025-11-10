@@ -21,18 +21,9 @@ This is a hands-on projects in **AWS, Terraform, CI/CD, and Networking** to shar
 - **CI/CD with Docker & Terraform** *(coming soon)*  
   Full automation pipeline with GitHub Actions, Docker, and AWS.
 
----
-
-##  Current Focus
-- Mastering AWS Solutions Architect Associate concepts.  
-- Building portfolio-ready **DevOps & Cloud projects**.  
-- Preparing for **Cloud/DevOps roles by Dec 2025**.
-
----
 
 ##  Let’s Connect
 - **LinkedIn**: [linkedin.com/in/chukwuemeka-okafor](www.linkedin.com/in/chukwuemeka-okafor-381098275)  
 - **GitHub Projects**: [Tech-Chuks](https://github.com/Tech-Chuks)
 
----
-*“Learning by building real-world projects.”*
+
