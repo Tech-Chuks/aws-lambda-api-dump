@@ -1,9 +1,9 @@
  AWS Lambda → API → S3 pipeline
-# 👋 Hi, I’m Chukwuemeka (Tech-Chuks)
+#  Hi, I’m Chukwuemeka (Tech-Chuks)
 
 🎯 ** Cloud & DevOps Engineer | Graduate Student in Computer Information Systems**
 
-I’m building hands-on projects in **AWS, Terraform, CI/CD, and Networking** to launch my career in Cloud/DevOps engineering. My focus is on **real-world infrastructure design** and showcasing projects that recruiters and hiring managers can trust.
+This a hands-on projects in **AWS, Terraform, CI/CD, and Networking** to launch my career in Cloud/DevOps engineering. My focus is on **real-world infrastructure design** and showcasing projects that recruiters and hiring managers can trust.
 
 ---
 
