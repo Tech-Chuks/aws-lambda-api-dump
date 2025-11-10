@@ -3,9 +3,7 @@
 
 🎯 ** Cloud & DevOps Engineer | Graduate Student in Computer Information Systems**
 
-This is a hands-on projects in **AWS, Terraform, CI/CD, and Networking** to launch my career in Cloud/DevOps engineering. My focus is on **real-world infrastructure design** and showcasing projects that recruiters and hiring managers can trust.
-
----
+This is a hands-on projects in **AWS, Terraform, CI/CD, and Networking** to share my Experience in Cloud/DevOps engineering. My focus is on **real-world infrastructure design** and Implementation of my desired desgins skills.
 
 ## 🚀 Skills & Tools
 - **Cloud**: AWS (Lambda, S3, EC2, VPC, IAM, Route53, CloudWatch, EventBridge)
