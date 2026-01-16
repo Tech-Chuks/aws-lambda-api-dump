@@ -23,7 +23,7 @@ This is a hands-on projects in **AWS, Terraform, CI/CD, and Networking** to shar
 
 
 ##  Let’s Connect
-- **LinkedIn**: [linkedin.com/in/chukwuemeka-okafor](www.linkedin.com/in/chukwuemeka-okafor-381098275)  
+- **LinkedIn**: linkedin.com/in/chuks-tech 
 - **GitHub Projects**: [Tech-Chuks](https://github.com/Tech-Chuks)
 
 
